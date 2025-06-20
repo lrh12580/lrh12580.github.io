@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
+---
+
 * Spring 2024: TA for EE382N
   * Computer Performance Evaluation and Benchmarking
 
