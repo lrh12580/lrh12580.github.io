@@ -13,7 +13,7 @@ title                    : "Ruihao Li"
 title_separator          : "-"
 name                     : &name "Ruihao Li"
 description              : &description "PhD Student, Chandra Family Department of Electrical and Computer Engineering, The University of Texas at Austin"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://lrh12580.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Ruihao Li"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD Student, Chandra Family Department of Electrical and Computer Engineering, The University of Texas at Austin"
   location         : "Austin, TX"
   employer         : "The University of Texas at Austin"
   uri              : # URL
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # URL
+  linkedin         : "ruihao-li-b7bb86186"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
