@@ -196,15 +196,19 @@ def parse_work_experience(work_text):
     
     for entry in entries:
         lines = entry.strip().split('\n')
+        print(lines)
         if not lines:
             continue
             
         # Parse position and company
         first_line = lines[0].strip()
+        print(first_line)
         position_match = re.match(r'(.*?), (.*?)(?:, |$)', first_line)
+        print(position_match)
         
         if position_match:
             position, company = position_match.groups()
+            print(position, company)
             
             # Extract dates if available
             date_match = re.search(r'(\d{4})\s*-\s*(\d{4}|present)', entry, re.IGNORECASE)
@@ -387,16 +391,16 @@ def create_cv_json(md_file, config_file, repo_root, output_file):
     }
     
     # Add publications
-    cv_json["publications"] = parse_publications(os.path.join(repo_root, "_publications"))
+    # cv_json["publications"] = parse_publications(os.path.join(repo_root, "_publications"))
     
     # Add talks
-    cv_json["presentations"] = parse_talks(os.path.join(repo_root, "_talks"))
+    # cv_json["presentations"] = parse_talks(os.path.join(repo_root, "_talks"))
     
     # Add teaching
-    cv_json["teaching"] = parse_teaching(os.path.join(repo_root, "_teaching"))
+    # cv_json["teaching"] = parse_teaching(os.path.join(repo_root, "_teaching"))
     
     # Add portfolio
-    cv_json["portfolio"] = parse_portfolio(os.path.join(repo_root, "_portfolio"))
+    # cv_json["portfolio"] = parse_portfolio(os.path.join(repo_root, "_portfolio"))
     
     # Extract languages and interests from config if available
     if 'languages' in config:
