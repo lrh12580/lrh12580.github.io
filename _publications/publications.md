@@ -52,11 +52,11 @@ The 23rd International Symposium on Quality Electronic Design (ISQED 2022)
 2021
 ======
 [C4] Wave-PIM: Accelerating Wave Simulation Using Processing-in-Memory [PDF](./Li_ICPP_2021.pdf) <br>
-Bagus Hanindhito*, **Ruihao Li***, Dimitrios Gourounas, Arash Fathi, Karan Govil, Dimitar Trenev, Andreas Gerstlauer, and Lizy K. John. (*= equal contribution) <br>
+Bagus Hanindhito\*, **Ruihao Li\***, Dimitrios Gourounas, Arash Fathi, Karan Govil, Dimitar Trenev, Andreas Gerstlauer, and Lizy K. John. (*= equal contribution) <br>
 50th International Conference on Parallel Processing (ICPP 2021).
 
 [C3] Performance characterization of. net benchmarks [PDF](./Li_ISPASS_2021.pdf) <br>
-Aniket Deshmukh*, **Ruihao Li***, Rathijit Sen, Robert R Henry, Monica Beckwith, Gagan Gupta (*= equal contribution) <br>
+Aniket Deshmukh\*, **Ruihao Li\***, Rathijit Sen, Robert R Henry, Monica Beckwith, Gagan Gupta (*= equal contribution) <br>
 2021 IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS 2021).
 
 [C2] Wave-PIM: Accelerating Wave Simulation Using Processing-in-Memory [PDF](./Li_SAC_2021.pdf) <br>
