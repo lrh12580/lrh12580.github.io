@@ -13,13 +13,13 @@ I primarily work on (a) architectural support for memory management and allocati
 
 Education
 ======
-* Ph.D in in Electircal and Computer Engineering, The University of Texas at Austin, 2025 (expected)
-* M.S. in Electircal and Computer Engineering, The University of Texas at Austin, 2024
-* B.S. in Computer Science, Shandong University, 2019
+* Ph.D. in in Electircal and Computer Engineering, The University of Texas at Austin, 2019 - 2025 (expected)
+* M.S. in Electircal and Computer Engineering, The University of Texas at Austin, 2019 - 2024
+* B.S. in Computer Science, Shandong University, 2015 - 2019
 
 Work experience
 ======
-* May 2024-Dec 2024: Research Scientist Intern
+* May 2024-Dec 2024: Research Scientist Intern, AI System Co-design
   * Meta
 
 * May 2023-Aug 2023: ASIC Engineer Intern, Architecture

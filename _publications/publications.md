@@ -43,7 +43,7 @@ First International Workshop on Intelligent and Adaptive Edge-Cloud Operations a
 
 [C6] SPAMeR: Speculative Push for Anticipated Message Requests in Multi-Core Systems [PDF](./Li_ICPP_2022.pdf) <br>
 Qinzhe Wu, Ashen Ekanayake, **Ruihao Li**, Jonathan Beard, and Lizy K. John. <br>
-51st International Conference on Parallel Processing (ICPP 2021).
+51st International Conference on Parallel Processing (ICPP 2022).
 
 [C5] Hardware-aware 3D Model Workload Selection and Characterization for Graphics and ML Applications [PDF](./Li_ISQED_2022.pdf) <br>
 **Ruihao Li**, Aman Arora, Sikan Li, Qinzhe Wu, and Lizy K. John. <br>
