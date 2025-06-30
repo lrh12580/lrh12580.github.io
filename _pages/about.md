@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 I am Ruihao Li, a Computer Architecture PhD student at UT Austin, advised by [Dr. Lizy K. John](https://www.ece.utexas.edu/people/faculty/lizy-john) and [Dr. Neeraja J. Yadwadkar](https://sites.utexas.edu/neeraja/). 
-I received my Bachelors in Computer Science from Shandong University (China), advised by [Dr. Mengying Zhao](https://zmyhomepage.github.io/zmy_EN/)
+I received my Bachelors in Computer Science from Shandong University (China), advised by [Dr. Mengying Zhao](https://zmyhomepage.github.io/zmy_EN/).
 
-I primarily work on (a) architectural support for memory management and allocation; (b) workload characterization and performance evaluation; and (c) hardware accelerators for machine learning and other emerging application.
+I primarily work on (a) efficient memory allocation and management for CPUs/GPUs; (b) workload characterization and performance evaluation; and (c) hardware accelerators for machine learning and other emerging application.
 
 Education
 ======

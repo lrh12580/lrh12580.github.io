@@ -59,7 +59,7 @@ Bagus Hanindhito\*, **Ruihao Li\***, Dimitrios Gourounas, Arash Fathi, Karan Gov
 Aniket Deshmukh\*, **Ruihao Li\***, Rathijit Sen, Robert R Henry, Monica Beckwith, Gagan Gupta (*= equal contribution) <br>
 2021 IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS 2021).
 
-[C2] Wave-PIM: Accelerating Wave Simulation Using Processing-in-Memory [PDF](./Li_SAC_2021.pdf) <br>
+[C2] Improving CNN Performance on FPGA Clusters through Topology Exploration [PDF](./Li_SAC_2021.pdf) <br>
 **Ruihao Li**, Ke Liu, Xiaojun Cai, Mengying Zhao, Lizy K. John, and Zhiping Jia. <br>
 The 36th ACM/SIGAPP Symposium On Applied Computing (SAC 2021).
 
