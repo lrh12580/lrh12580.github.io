@@ -7,7 +7,7 @@ author_profile: true
 
 2025
 ======
-[J2] Old is Gold: Optimizing Single-threaded Applications with ExGen-Malloc <br>
+[J2] Old is Gold: Optimizing Single-threaded Applications with ExGen-Malloc  [PDF](./Li_CAL_2025.pdf) <br>
 **Ruihao Li**, Lizy K. John, and Neeraja J. Yadwadkar. <br>
 IEEE Computer Architecture Letters (CAL).
 
@@ -18,6 +18,10 @@ ACM Transactions on Architecture and Code Optimization (TACO).
 [C11] CADOSys: Cache Aware Design Space Optimization for Spatial ML Accelerators [PDF](./Li_GLSVLSI_2025.pdf) <br>
 **Ruihao Li**, Siyuan Ma, Krishna Kavi, Gayatri Mehta, Neeraja J. Yadwadkar, and Lizy K. John. <br>
 Great Lakes Symposium on VLSI (GLSVLSI 2025).
+
+[W2] The Utilization Fallacy and the Real Drivers of Carbon-Efficient Inference Serving <br>
+Prasoon Sinha, Dimitrios Liakopoulos, **Ruihao Li**, and Neeraja J. Yadwadkar. <br>
+Workshop on Sustainable Computer Systems (HotCarbon 2025)
 
 2024
 ======
