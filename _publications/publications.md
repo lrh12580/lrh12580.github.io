@@ -7,6 +7,9 @@ author_profile: true
 
 2025
 ======
+[Arxiv] MIRAGE: KV Cache Optimization through Parameter Remapping for Multi-tenant LLM Serving [PDF](https://arxiv.org/pdf/2507.11507) <br>
+**Ruihao Li\***, Shagnik Pal\*, Vineeth Narayan Pullu, Prasoon Sinha, Jeeho Ryoo, Lizy K. John, and Neeraja J. Yadwadkar. (*= equal contribution) <br>
+
 [J2] Old is Gold: Optimizing Single-threaded Applications with ExGen-Malloc  [PDF](./Li_CAL_2025.pdf) <br>
 **Ruihao Li**, Lizy K. John, and Neeraja J. Yadwadkar. <br>
 IEEE Computer Architecture Letters (CAL).
