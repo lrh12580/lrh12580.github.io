@@ -22,13 +22,13 @@ ACM Transactions on Architecture and Code Optimization (TACO).
 **Ruihao Li**, Siyuan Ma, Krishna Kavi, Gayatri Mehta, Neeraja J. Yadwadkar, and Lizy K. John. <br>
 Great Lakes Symposium on VLSI (GLSVLSI 2025).
 
-[W2] The Utilization Fallacy and the Real Drivers of Carbon-Efficient Inference Serving <br>
+[W2] The Utilization Fallacy and the Real Drivers of Carbon-Efficient Inference Serving [PDF](./Sinha_Hotcarbon_2025.pdf)<br>
 Prasoon Sinha, Dimitrios Liakopoulos, **Ruihao Li**, and Neeraja J. Yadwadkar. <br>
 Workshop on Sustainable Computer Systems (HotCarbon 2025)
 
 2024
 ======
-[C10] BLQ: Light-Weight Locality-Aware Runtime for Blocking-Less Queuing [PDF](./Li_CC_2024.pdf) <br>
+[C10] BLQ: Light-Weight Locality-Aware Runtime for Blocking-Less Queuing [PDF](./Wu_CC_2024.pdf) <br>
 Qinzhe Wu, **Ruihao Li**, Jonathan Beard, and Lizy John. <br>
 ACM SIGPLAN 33rd International Conference on Compiler Construction (CC 2024). 
 
@@ -38,7 +38,7 @@ ACM SIGPLAN 33rd International Conference on Compiler Construction (CC 2024).
 **Ruihao Li**, Sanjana Yadav, Qinzhe Wu, Krishna Kavi, Gayatri Mehta, Neeraja J. Yadwadkar, and Lizy K. John. <br>
 2023 IEEE International Symposium on Workload Characterization (IISWC 2023).
 
-[C8] HLSDataset: Open-Source Dataset for ML-Assisted FPGA Design using High Level Synthesis [PDF](./Li_ASAP_2023.pdf) <br>
+[C8] HLSDataset: Open-Source Dataset for ML-Assisted FPGA Design using High Level Synthesis [PDF](./Wei_ASAP_2023.pdf) <br>
 Zhigang Wei, Aman Arora, **Ruihao Li**, and Lizy K. John. <br>
 34th IEEE International Conference on Application-specific Systems, Architectures and Processors (ASAP 2023). 
 
@@ -48,11 +48,11 @@ HotOS XIX: The 19th Workshop on Hot Topics in Operating Systems (HotOS 2023).
 
 2022
 ======
-[W1] Performance Impact of NVMe-Over-TCP on HDFS Workloads [PDF](./Li_UCC_2022.pdf) <br>
+[W1] Performance Impact of NVMe-Over-TCP on HDFS Workloads [PDF](./Sharma_UCC_2022.pdf) <br>
 Nikita Sharma, **Ruihao Li**, Qinzhe Wu, and Lizy Kurian John. <br>
 First International Workshop on Intelligent and Adaptive Edge-Cloud Operations and Services (Intel4EC, in conjunction with UCC 2022)
 
-[C6] SPAMeR: Speculative Push for Anticipated Message Requests in Multi-Core Systems [PDF](./Li_ICPP_2022.pdf) <br>
+[C6] SPAMeR: Speculative Push for Anticipated Message Requests in Multi-Core Systems [PDF](./Wu_ICPP_2022.pdf) <br>
 Qinzhe Wu, Ashen Ekanayake, **Ruihao Li**, Jonathan Beard, and Lizy K. John. <br>
 51st International Conference on Parallel Processing (ICPP 2022).
 
