@@ -10,11 +10,16 @@ Preprints
 [Arxiv] SpeedMalloc: Improving Multi-threaded Applications via a Lightweight Core for Memory Allocation [PDF](https://arxiv.org/pdf/2508.20253) <br>
 **Ruihao Li**, Qinzhe Wu, Krishna Kavi, Gayatri Mehta, Jonathan C. Beard, Neeraja J. Yadwadkar, and Lizy K. John. <br>
 
-[Arxiv] MIRAGE: KV Cache Optimization through Parameter Remapping for Multi-tenant LLM Serving [PDF](https://arxiv.org/pdf/2507.11507) <br>
-**Ruihao Li\***, Shagnik Pal\*, Vineeth Narayan Pullu, Prasoon Sinha, Jeeho Ryoo, Lizy K. John, and Neeraja J. Yadwadkar. (*= equal contribution) <br>
-
 2025
 ======
+[C12] Oneiros: KV Cache Optimization through Parameter Remapping for Multi-tenant LLM Serving [Arxiv Preprint](https://arxiv.org/pdf/2507.11507) <br>
+**Ruihao Li\***, Shagnik Pal\*, Vineeth Narayan Pullu, Prasoon Sinha, Jeeho Ryoo, Lizy K. John, and Neeraja J. Yadwadkar. (*= equal contribution) <br>
+ACM Symposium on Cloud Computing 2025 (ACM SoCC 2025).
+
+[C11] CADOSys: Cache Aware Design Space Optimization for Spatial ML Accelerators [PDF](./Li_GLSVLSI_2025.pdf) <br>
+**Ruihao Li**, Siyuan Ma, Krishna Kavi, Gayatri Mehta, Neeraja J. Yadwadkar, and Lizy K. John. <br>
+Great Lakes Symposium on VLSI (GLSVLSI 2025).
+
 [J2] Performance Implications of Pipelining the Data Transfer in CPU-GPU Heterogeneous Systems [PDF](./Li_TACO_2025_UVM.pdf) <br>
 **Ruihao Li**, Bagus Hanindhito, Sanjana Yadav, Qinzhe Wu, Krishna Kavi, Gayatri Mehta, Neeraja J. Yadwadkar, and Lizy K. John. <br>
 ACM Transactions on Architecture and Code Optimization (TACO).
@@ -22,10 +27,6 @@ ACM Transactions on Architecture and Code Optimization (TACO).
 [J1] Old is Gold: Optimizing Single-threaded Applications with ExGen-Malloc  [PDF](./Li_CAL_2025.pdf) <br>
 **Ruihao Li**, Lizy K. John, and Neeraja J. Yadwadkar. <br>
 IEEE Computer Architecture Letters (CAL).
-
-[C11] CADOSys: Cache Aware Design Space Optimization for Spatial ML Accelerators [PDF](./Li_GLSVLSI_2025.pdf) <br>
-**Ruihao Li**, Siyuan Ma, Krishna Kavi, Gayatri Mehta, Neeraja J. Yadwadkar, and Lizy K. John. <br>
-Great Lakes Symposium on VLSI (GLSVLSI 2025).
 
 [W2] The Utilization Fallacy and the Real Drivers of Carbon-Efficient Inference Serving [PDF](./Sinha_Hotcarbon_2025.pdf)<br>
 Prasoon Sinha, Dimitrios Liakopoulos, **Ruihao Li**, and Neeraja J. Yadwadkar. <br>
