@@ -13,7 +13,7 @@ I primarily work on (a) efficient memory allocation and management for CPUs/GPUs
 
 Education
 ======
-* Ph.D. in in Electircal and Computer Engineering, The University of Texas at Austin, 2019 - 2025 (expected)
+* Ph.D. in Electircal and Computer Engineering, The University of Texas at Austin, 2019 - 2025 (expected)
 * M.S. in Electircal and Computer Engineering, The University of Texas at Austin, 2019 - 2024
 * B.S. in Computer Science, Shandong University, 2015 - 2019
 
