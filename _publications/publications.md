@@ -7,6 +7,10 @@ author_profile: true
 
 Preprints
 ======
+[Arxiv] Old is Gold: Optimizing Single-threaded Applications with Exgen-Malloc [PDF](https://arxiv.org/pdf/2510.10219) <br>
+**Ruihao Li**, Lizy K. John, and Neeraja J. Yadwadkar. <br>
+Full Version of CAL 2025.
+
 [Arxiv] SpeedMalloc: Improving Multi-threaded Applications via a Lightweight Core for Memory Allocation [PDF](https://arxiv.org/pdf/2508.20253) <br>
 **Ruihao Li**, Qinzhe Wu, Krishna Kavi, Gayatri Mehta, Jonathan C. Beard, Neeraja J. Yadwadkar, and Lizy K. John. <br>
 
