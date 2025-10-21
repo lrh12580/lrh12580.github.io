@@ -16,7 +16,7 @@ Full Version of CAL 2025.
 
 2025
 ======
-[C12] Oneiros: KV Cache Optimization through Parameter Remapping for Multi-tenant LLM Serving [Arxiv Preprint](https://arxiv.org/pdf/2507.11507) <br>
+[C12] Oneiros: KV Cache Optimization through Parameter Remapping for Multi-tenant LLM Serving [PDF](./Li_SoCC_2025.pdf) <br>
 **Ruihao Li\***, Shagnik Pal\*, Vineeth Narayan Pullu, Prasoon Sinha, Jeeho Ryoo, Lizy K. John, and Neeraja J. Yadwadkar. (*= equal contribution) <br>
 ACM Symposium on Cloud Computing 2025 (ACM SoCC 2025).
 
