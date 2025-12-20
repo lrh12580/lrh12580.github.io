@@ -25,9 +25,9 @@ author:
   avatar           : "ruihao.jpg"
   name             : "Ruihao Li"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Student, Chandra Family Department of Electrical and Computer Engineering, The University of Texas at Austin"
-  location         : "Austin, TX"
-  employer         : "The University of Texas at Austin"
+  bio              : "Research Scientist, Meta [AI and Systems Co-Design](https://aisystemcodesign.github.io/)"
+  location         : "Menlo Park, CA"
+  employer         : "Meta"
   uri              : # URL
   email            : "liruihao@utexas.edu" 
 
