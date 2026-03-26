@@ -14,6 +14,12 @@ Full Version of CAL 2025.
 [Arxiv] SpeedMalloc: Improving Multi-threaded Applications via a Lightweight Core for Memory Allocation [PDF](https://arxiv.org/pdf/2508.20253) <br>
 **Ruihao Li**, Qinzhe Wu, Krishna Kavi, Gayatri Mehta, Jonathan C. Beard, Neeraja J. Yadwadkar, and Lizy K. John. <br>
 
+2026
+======
+[C13] Hardware Lifecycle-Aware Power Planning in Commercial Hyperscale Datacenters <br>
+**Ruihao Li**, Leonardo Piga, Wei Su, Carlos Torres, Jovan Stojkovic, Neeraja J. Yadwadkar, Lizy K. John, and Abhishek Dhanotia. <br>
+20th USENIX Symposium on Operating Systems Design and Implementation (OSDI 2026).
+
 2025
 ======
 [C12] Oneiros: KV Cache Optimization through Parameter Remapping for Multi-tenant LLM Serving [PDF](./Li_SoCC_2025.pdf) <br>
