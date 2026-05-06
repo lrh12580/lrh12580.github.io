@@ -7,6 +7,9 @@ author_profile: true
 
 Preprints
 ======
+[Arxiv] SPEC CPU2026: Characterization, Representativeness, and Cross-Suite Comparison [PDF](https://arxiv.org/pdf/2605.03713) <br>
+**Ruihao Li**, Andrew Jacob, Neeraja J. Yadwadkar, and Lizy K. John. <br>
+
 [Arxiv] Old is Gold: Optimizing Single-threaded Applications with Exgen-Malloc [PDF](https://arxiv.org/pdf/2510.10219) <br>
 **Ruihao Li**, Lizy K. John, and Neeraja J. Yadwadkar. <br>
 Full Version of CAL 2025.
