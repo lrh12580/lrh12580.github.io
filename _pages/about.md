@@ -40,5 +40,5 @@ Work experience
 
 Service
 ======
-*  Conference program committee
+* Conference Program Committee
   * ISCA 2026 (light PC), HPCA 2026 (light PC)
