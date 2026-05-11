@@ -37,3 +37,8 @@ Work experience
 
 * May 2020-Aug 2020: Research Intern, Microsoft
   * Performance Characterization of .NET Benchmarks
+
+Service
+======
+*  Conference program committee
+  * ISCA 2026 (light PC), HPCA 2026 (light PC)
