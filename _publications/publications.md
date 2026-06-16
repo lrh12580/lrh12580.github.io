@@ -19,7 +19,7 @@ Full Version of CAL 2025.
 
 2026
 ======
-[C13] Hardware Lifecycle-Aware Power Planning in Commercial Hyperscale Datacenters <br>
+[C13] Hardware Lifecycle-Aware Power Planning in Commercial Hyperscale Datacenters [PDF](./Li_OSDI_2026.pdf) <br>
 **Ruihao Li**, Leonardo Piga, Wei Su, Carlos Torres, Jovan Stojkovic, Neeraja J. Yadwadkar, Lizy K. John, and Abhishek Dhanotia. <br>
 20th USENIX Symposium on Operating Systems Design and Implementation (OSDI 2026).
 
