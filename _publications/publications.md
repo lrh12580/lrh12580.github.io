@@ -19,9 +19,13 @@ Full Version of CAL 2025.
 
 2026
 ======
-[C13] Hardware Lifecycle-Aware Power Planning in Commercial Hyperscale Datacenters [PDF](./Li_OSDI_2026.pdf) <br>
+[C13] Hardware Lifecycle-Aware Power Planning in Commercial Hyperscale Datacenters [PDF](https://www.usenix.org/system/files/osdi26-li-ruihao.pdf) <br>
 **Ruihao Li**, Leonardo Piga, Wei Su, Carlos Torres, Jovan Stojkovic, Neeraja J. Yadwadkar, Lizy K. John, and Abhishek Dhanotia. <br>
 20th USENIX Symposium on Operating Systems Design and Implementation (OSDI 2026).
+
+[J4] Elastic Memory Remapping for Multi-tenant LLM Serving [PDF](./Li_SIGOPS_Review_2026.pdf) <br>
+**Ruihao Li\***, Shagnik Pal\*, Vineeth Narayan Pullu, Prasoon Sinha, Jeeho Ryoo, Lizy K. John, and Neeraja J. Yadwadkar. (*= equal contribution) <br>
+ACM SIGOPS Operating Systems Review.
 
 2025
 ======
@@ -33,6 +37,10 @@ ACM Symposium on Cloud Computing 2025 (ACM SoCC 2025).
 **Ruihao Li**, Siyuan Ma, Krishna Kavi, Gayatri Mehta, Neeraja J. Yadwadkar, and Lizy K. John. <br>
 Great Lakes Symposium on VLSI (GLSVLSI 2025).
 
+[J3] The Utilization Fallacy and the Real Drivers of Carbon-Efficient Inference Serving [PDF](./Sinha_Hotcarbon_2025.pdf)<br>
+Prasoon Sinha, Dimitrios Liakopoulos, **Ruihao Li**, and Neeraja J. Yadwadkar. <br>
+ACM SIGENERGY Energy Informatics Review (HotCarbon 2025).
+
 [J2] Performance Implications of Pipelining the Data Transfer in CPU-GPU Heterogeneous Systems [PDF](./Li_TACO_2025_UVM.pdf) <br>
 **Ruihao Li**, Bagus Hanindhito, Sanjana Yadav, Qinzhe Wu, Krishna Kavi, Gayatri Mehta, Neeraja J. Yadwadkar, and Lizy K. John. <br>
 ACM Transactions on Architecture and Code Optimization (TACO).
@@ -40,10 +48,6 @@ ACM Transactions on Architecture and Code Optimization (TACO).
 [J1] Old is Gold: Optimizing Single-threaded Applications with ExGen-Malloc  [PDF](./Li_CAL_2025.pdf) <br>
 **Ruihao Li**, Lizy K. John, and Neeraja J. Yadwadkar. <br>
 IEEE Computer Architecture Letters (CAL).
-
-[W2] The Utilization Fallacy and the Real Drivers of Carbon-Efficient Inference Serving [PDF](./Sinha_Hotcarbon_2025.pdf)<br>
-Prasoon Sinha, Dimitrios Liakopoulos, **Ruihao Li**, and Neeraja J. Yadwadkar. <br>
-Workshop on Sustainable Computer Systems (HotCarbon 2025)
 
 2024
 ======
