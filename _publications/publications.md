@@ -9,9 +9,11 @@ author_profile: true
 ======
 [C15] SPEC CPU2026: A Comprehensive Characterization Across Modern Processor Architectures [Arxiv Preprint](https://arxiv.org/pdf/2605.03713) <br>
 **Ruihao Li**, Andrew Jacob, Neeraja J. Yadwadkar, and Lizy K. John. <br>
+IEEE International Symposium on High-Performance Computer Architecture (HPCA) 2027
 
 [C14] LeanMalloc: Stripping Away Concurrency Overheads for Faster Memory Allocation [Arxiv Preprint](https://arxiv.org/pdf/2510.10219) <br>
 **Ruihao Li**, Lizy K. John, and Neeraja J. Yadwadkar. <br>
+IEEE International Symposium on High-Performance Computer Architecture (HPCA) 2027
 
 2026
 ======
