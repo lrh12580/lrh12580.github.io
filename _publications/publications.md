@@ -5,17 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-Preprints
+2027
 ======
-[Arxiv] SPEC CPU2026: Characterization, Representativeness, and Cross-Suite Comparison [PDF](https://arxiv.org/pdf/2605.03713) <br>
+[C15] SPEC CPU2026: A Comprehensive Characterization Across Modern Processor Architectures [Arxiv Preprint](https://arxiv.org/pdf/2605.03713) <br>
 **Ruihao Li**, Andrew Jacob, Neeraja J. Yadwadkar, and Lizy K. John. <br>
 
-[Arxiv] Old is Gold: Optimizing Single-threaded Applications with Exgen-Malloc [PDF](https://arxiv.org/pdf/2510.10219) <br>
+[C14] LeanMalloc: Stripping Away Concurrency Overheads for Faster Memory Allocation [Arxiv Preprint](https://arxiv.org/pdf/2510.10219) <br>
 **Ruihao Li**, Lizy K. John, and Neeraja J. Yadwadkar. <br>
-Full Version of CAL 2025.
-
-[Arxiv] SpeedMalloc: Improving Multi-threaded Applications via a Lightweight Core for Memory Allocation [PDF](https://arxiv.org/pdf/2508.20253) <br>
-**Ruihao Li**, Qinzhe Wu, Krishna Kavi, Gayatri Mehta, Jonathan C. Beard, Neeraja J. Yadwadkar, and Lizy K. John. <br>
 
 2026
 ======
@@ -29,6 +25,9 @@ ACM SIGOPS Operating Systems Review.
 
 2025
 ======
+[Arxiv] SpeedMalloc: Improving Multi-threaded Applications via a Lightweight Core for Memory Allocation [PDF](https://arxiv.org/pdf/2508.20253) <br>
+**Ruihao Li**, Qinzhe Wu, Krishna Kavi, Gayatri Mehta, Jonathan C. Beard, Neeraja J. Yadwadkar, and Lizy K. John. <br>
+
 [C12] Oneiros: KV Cache Optimization through Parameter Remapping for Multi-tenant LLM Serving [PDF](./Li_SoCC_2025.pdf) <br>
 **Ruihao Li\***, Shagnik Pal\*, Vineeth Narayan Pullu, Prasoon Sinha, Jeeho Ryoo, Lizy K. John, and Neeraja J. Yadwadkar. (*= equal contribution) <br>
 ACM Symposium on Cloud Computing 2025 (ACM SoCC 2025).
